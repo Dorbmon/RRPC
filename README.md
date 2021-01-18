@@ -1,2 +1,2 @@
 # RRPC
-rpc based on ASIO
+rpc based on libevent
